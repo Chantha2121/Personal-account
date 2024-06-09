@@ -4,8 +4,7 @@ import { AiFillLinkedin,AiFillGithub,AiFillInstagram, AiFillFacebook } from 'rea
 import { TypeAnimation } from 'react-type-animation';
 function Hero() {
   return (
-    
-      <div className="my-7 sm:my-0 max-w-[1200px] h-[110vh] mx-auto flex flex-col-reverse sm:flex-row justify-center align-center" id='hero'>
+      <div className="my-7 sm:my-0 max-w-[1200px] h-[110vh] mx-auto flex flex-col-reverse sm:flex-row justify-center align-center" id='home'>
         <div className=" flex-col my-auto mx-auto">
           <h1 className=' md:text-7xl sm:text-5xl text-4xl font-bold md:py-6 sm:mt-20 mt-6'>
             <TypeAnimation
